@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "HFDSFY.C": "cpp",
+        "mapp.h": "c",
+        "windows.h": "c",
+        "bitmap.h": "c",
+        "string.h": "c"
+    }
+}
